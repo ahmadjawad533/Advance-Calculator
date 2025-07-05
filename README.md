@@ -54,11 +54,9 @@ The calculator supports the following operations:
 
 📁 CalculatorProject/
 
-├── Calc.java ## Terminal-based calculator
-
-├── CalcGUI.java ## GUI-based calculator using Swing
-
-├── README.md ## Documentation file
+├── Calc.java (Terminal-based calculator)
+├── CalcGUI.java  (GUI-based calculator using Swing)
+├── README.md (Documentation file)
 
 
 ---
