@@ -53,12 +53,12 @@ The calculator supports the following operations:
 ## 📂 File Structure
 
 📁 CalculatorProject/
-│
-├── Calc.java # Terminal-based calculator
 
-├── CalcGUI.java # GUI-based calculator using Swing
+├── Calc.java ## Terminal-based calculator
 
-├── README.md # Documentation file
+├── CalcGUI.java ## GUI-based calculator using Swing
+
+├── README.md ## Documentation file
 
 
 ---
